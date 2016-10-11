@@ -1,0 +1,56 @@
+body {
+  font-family: 'PT Sans';
+  padding-top: 40px;
+  padding-bottom: 70px;
+  background-color: background: #43cea2; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #43cea2 , #185a9d); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #43cea2 , #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.navbar-fixed-bottom {
+  padding-top: 13px;
+  background-color:background: #ff00cc; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ff00cc , #333399); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ff00cc , #333399); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+
+.navbar-fixed-bottom a {
+  color: #CCC;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: #0EBFE9;
+  border-color: #0EBFE9;
+}
+
+.btn:hover {
+  background-color: #63D1F4;
+  border-color: #63D1F4;
+}
+
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 3px;
+  border: 0px;
+}
+
+.container p a{
+  color: #EFEFEF;
+  text-decoration: none;
+}
