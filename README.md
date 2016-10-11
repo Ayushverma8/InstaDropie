@@ -2,6 +2,8 @@
 
 ![Dropbox](http://www.iconsdb.com/icons/preview/caribbean-blue/dropbox-xxl.png)
 
+##[Demo](https://ayushverma8.github.io/InstaDropie/)
+
 InstaDropie is a web utility that allows you to save all your files via doawload link to dropbox immediatialy without hassle of downloading it to local.
 
   - Easy to Use
@@ -36,4 +38,5 @@ MIT
 
 **Life Simplified Hell Yeah!**
 
+PS: You might need to Deactivate HTTPS loading from browser since Github Prevents loading scripts from third party Vendor { Dropbox , in this Case, Duh :-(  }
 
