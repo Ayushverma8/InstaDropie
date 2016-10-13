@@ -4,11 +4,11 @@
 
 ##[Demo](https://ayushverma8.github.io/InstaDropie/)
 
-InstaDropie is a web utility that allows you to save all your files via doawload link to dropbox immediatialy without hassle of downloading it to local.
+InstaDropie is a web utility that allows you to save all your files via download link to dropbox immediately without hassle of downloading it to local.
 
   - Easy to Use
   - Can Rename link data before saving
-  - Utility to define the directory to save !
+  - Utility to define the directory before saving  !
 
 
 
